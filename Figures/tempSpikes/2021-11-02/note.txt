@@ -1,0 +1,3 @@
+Hzg peaks less than 600 s after WW, threshold 45: 25
+Hzg peaks more than 600 s after WW, threshold 45: 10
+Hzg peaks more than 600 s after WW, threshold 50: 2 (VL WW peaks at 2021-05-03 04:29:39, 2021-05-05 06:29:31)

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DataExtractorPlotter", "DataExtractorPlotter\DataExtractorPlotter.pyproj", "{1E1250B3-8928-4DBB-B3FF-B6B94E0A30C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E1250B3-8928-4DBB-B3FF-B6B94E0A30C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1250B3-8928-4DBB-B3FF-B6B94E0A30C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1005D967-6A7C-4EEE-B2BB-4BAB31717F65}
+	EndGlobalSection
+EndGlobal
