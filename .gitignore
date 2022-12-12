@@ -29,7 +29,7 @@
 # Raw data #
 ######################
 *.csv
-data\raw
+data/raw/*
 
 # OS generated files #
 ######################
